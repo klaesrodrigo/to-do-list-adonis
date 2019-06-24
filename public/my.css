@@ -1,0 +1,13 @@
+td:last-child{
+    width: 150px;
+}
+
+body{
+    background-color: mediumpurple;
+    color: white;
+}
+
+.done{
+    text-decoration: line-through;
+    color: black;
+}
